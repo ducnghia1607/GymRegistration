@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "firstName": "Nguyễn",
+      "lastName": "Nghĩa",
+      "email": "nguyenducnghia1607@gmail.com",
+      "mobile": "0337840985",
+      "height": "1.6",
+      "weight": "65",
+      "bmi": 25.390624999999996,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Quarterly",
+      "goal": [
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "isGymmer": "Yes",
+      "enquiryDate": "2023-11-19T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "Nguyen Duc",
+      "lastName": "Quoc",
+      "email": "quoc1992@gmail.com",
+      "mobile": "0337840985",
+      "height": "1.7",
+      "weight": "60",
+      "bmi": 20.761245674740486,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Yearly",
+      "goal": [
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "isGymmer": "Yes",
+      "enquiryDate": "2023-11-19T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Nguyen Duc",
+      "lastName": "Tien",
+      "email": "tien2003@gmail.com",
+      "mobile": "0983442424",
+      "height": "1.7",
+      "weight": "60",
+      "bmi": 20.761245674740486,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requiredTrainer": "Yes",
+      "package": "Yearly",
+      "goal": [
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "isGymmer": "Yes",
+      "enquiryDate": "2023-11-19T17:00:00.000Z",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
